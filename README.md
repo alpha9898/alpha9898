@@ -44,17 +44,4 @@
   </a>
 </div>
 
-###
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/alpha9898/alpha9898/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alpha9898/alpha9898/output/snake.svg" alt="Snake animation" />
-
-###
