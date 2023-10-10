@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/alpha9898/alpha9898/output/snake.svg" alt="Snake animation" />
 
 ###
