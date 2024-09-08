@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amar yasser and I'm a student at CS, from Egypt<br>currently i am learning flutter and math for learn ML in future</h2>
+<h2 align="left">Hi 👋! My name is Amar yasser and I'm a student at CS, from Egypt<br>currently i am learning flutter </h2>
 
 ###
 
