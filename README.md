@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ammar%20Yasser&fontSize=55&fontColor=ffffff&animation=fadeIn)
+
 <h1 align="center">Hi there 👋, I'm Ammar Yasser</h1>
 
 <p align="center">
@@ -35,6 +37,14 @@
   <a href="https://github.com/alpha9898" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 ---
@@ -188,6 +198,22 @@ flowchart TB
 
 ---
 
+## 📈 Detailed Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+## 🎮 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -207,3 +233,5 @@ flowchart TB
   It will appear blank until the workflow runs once. Run it manually from the
   Actions tab the first time, then it auto-updates daily.
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
