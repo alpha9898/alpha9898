@@ -196,13 +196,6 @@ flowchart TB
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha9898&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-## 📈 Detailed Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 ---
 
