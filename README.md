@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=620&lines=Junior+DevOps+Engineer+%40+VPSie;Infrastructure+as+Code+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;Automating+all+the+things+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=620&lines=Junior+DevOps+Engineer+%40+VPSie;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;Automating+all+the+things+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,10 +18,20 @@
 
 - 🔭 &nbsp;**Junior DevOps Engineer @ [VPSie](https://vpsie.com)** — building and automating production infrastructure
 - 📍 &nbsp;Based in **Cairo / Sohag, Egypt** 🇪🇬 · working fully remote
-- 🌱 &nbsp;Currently going deep on **AWS, Kubernetes, Terraform, and observability**
-- 🎯 &nbsp;Preparing for the **AWS Solutions Architect – Associate (SAA-C03)** certification
+- ☁️ &nbsp;**AWS Certified Solutions Architect – Associate (SAA-C03)**
+- 🌱 &nbsp;Currently going deep on **Kubernetes, Terraform, and observability**
 - 👯 &nbsp;Open to **DevOps collaborations** and learning-driven projects
 - ⚡ &nbsp;Fun fact: I'm most productive in **quiet, focused environments**
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/718dec12-ac06-4817-9ddc-5909b7dda169/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="130" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+</p>
 
 ---
 
@@ -34,8 +44,8 @@
   <a href="mailto:amaryasser046@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/alpha9898" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.credly.com/badges/718dec12-ac06-4817-9ddc-5909b7dda169/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
 
@@ -53,7 +63,7 @@
 
 **☁️ Cloud & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified_SA_Associate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -97,22 +107,16 @@
 > Multi-tenant **SaaS for AWS CloudWatch log analysis** with AI-generated incident reports. Securely connects to client AWS accounts using **IAM Role + STS AssumeRole** (no stored credentials).
 >
 > `FastAPI` · `Next.js` · `AWS` · `Vercel`
->
-> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF9900?style=flat-square&logo=vercel&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ### 📄 InfraDoc AI
 > Automatically generates **IaC documentation and a security score** straight from a GitHub repo. Parses **Terraform, Kubernetes, Helm, and CloudFormation**.
 >
 > `FastAPI` · `Next.js` · `Vercel`
->
-> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF9900?style=flat-square&logo=vercel&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ### 🗺️ TopoForge
 > Converts **low-level network designs (LLD) into high-level diagrams (HLD)** — turning a ~3-hour manual task into roughly **30 minutes**.
 >
 > `FastAPI` · `Next.js` · `Vercel`
->
-> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF9900?style=flat-square&logo=vercel&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ---
 
@@ -193,9 +197,8 @@ flowchart TB
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha9898&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha9898&theme=github_dark_dimmed&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
 
 ---
 
@@ -220,11 +223,5 @@ flowchart TB
 <p align="center">
   <img src="https://raw.githubusercontent.com/alpha9898/alpha9898/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
-<!--
-  The snake above is generated by a GitHub Action (.github/workflows/snake.yml).
-  It will appear blank until the workflow runs once. Run it manually from the
-  Actions tab the first time, then it auto-updates daily.
--->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
